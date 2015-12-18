@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZhihuAnswer</string>
+    <string name="title_activity_qqhealth">QQHealth</string>
+    <string name="title_activity_air">AirConditioner</string>
+</resources>
